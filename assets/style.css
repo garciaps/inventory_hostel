@@ -1,0 +1,78 @@
+
+body{
+    overflow: hidden;
+}
+.navbar-navs{
+    background-color:rgb(255, 239, 218);
+}
+
+.banner{
+    height: 150px;
+    display: flex;
+    align-items: center;
+}
+
+.banner img{
+    height: 70%;
+}
+
+.panels-head{
+    background-color: rgb(130, 185, 110);
+    padding:3px 15px;
+   
+}
+
+.panel-titles{
+    font-weight: 700;
+    border: 0;
+    border-bottom: 1px solid;
+}
+
+.gitna{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.panels-head .text{
+    font-weight: bolder;
+    padding: 7px 0;
+}
+
+.navigation li a{
+    color: black;
+}
+
+.navigation li a:hover .navigation li  {
+    background-color: rgb(235, 205, 167);
+}
+
+
+.panel-primary-bolder{
+    border:1px solid rgb(130, 185, 110);
+}
+
+.pal ul li a{
+    color: black;
+    font-size: 1.25em;
+    text-decoration: underline;
+}
+
+.panel-border{
+    border: 1px solid rgb(130, 185, 110);
+}
+
+.panel-border .panel-body{
+    background-color: rgb(192, 212, 164);
+}
+
+.panel-border .panel-heading{
+    background-color: rgb(145, 191, 123);
+    font-weight: 700;
+    color: black;
+}
+
+.active{
+    background: rgb(235, 205, 167);
+}
