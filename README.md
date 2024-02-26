@@ -1,5 +1,5 @@
 # inventory_hostel
-# Capstone Title : Inventory System of Supplies, Tools, and Equipment of Hostel Tropicana in Cavite State University - Main Campus
+# Capstone Project Title : Inventory System of Supplies, Tools, and Equipment of Hostel Tropicana in Cavite State University - Main Campus
 
 # Members : 
 # Princess Shane V. Garcia
